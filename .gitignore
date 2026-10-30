@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Spark
+*.crc
+
+# Generated Spark output
+data/processed/
+data/analytics/
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code
+.vscode/

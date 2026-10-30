@@ -1,0 +1,12 @@
+Order_ID,Customer_ID,Product,Category,Quantity,Price,Order_Date,City,State
+1001,C101,Laptop,Electronics,2,55000,2026-07-01,Delhi,Delhi
+1002,C102,Mouse,Electronics,5,800,2026-07-01,Mumbai,Maharashtra
+1003,C103,Keyboard,Electronics,,1500,2026-07-02,Pune,Maharashtra
+1004,C104,Chair,Furniture,3,4500,2026-07-02,Bangalore,Karnataka
+1005,C105,Table,Furniture,2,7000,2026-07-03,Chennai,Tamil Nadu
+1006,C106,Monitor,Electronics,1,12000,2026-07-03,Hyderabad,Telangana
+1007,C107,Laptop,Electronics,1,55000,2026-07-04,Delhi,Delhi
+1008,C108,Chair,Furniture,,4500,2026-07-04,Kolkata,West Bengal
+1009,C109,Mobile,Electronics,4,25000,2026-07-05,Noida,Uttar Pradesh
+1010,C110,Printer,Electronics,2,9000,2026-07-05,Lucknow,Uttar Pradesh
+1010,C110,Printer,Electronics,2,9000,2026-07-05,Lucknow,Uttar Pradesh
